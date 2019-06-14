@@ -1,0 +1,1 @@
+simple blackjack game html, css and javascript
